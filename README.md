@@ -45,7 +45,7 @@
 <br>
 <p align="center">Hewe awe some of my <br>
 most used s-s-sociaw things >~< xoxox</p>
-<p align="center"><a href="https://twitter.com/dor3mon04" target="_blank"><img src="https://img.shields.io/badge/NguyenTuanMinh%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a></p>
+<p align="center"><a href="https://twitter.com/dor3mon04" target="_blank"><img src="https://img.shields.io/badge/Nguyen+Tuan+Minh%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a></p>
 </div>
 <br>
 <br>
